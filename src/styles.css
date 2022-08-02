@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: green;
+}
+body {
+  background-color: palevioletred;
+}
+.score-section {
+  color: blue;
+}
